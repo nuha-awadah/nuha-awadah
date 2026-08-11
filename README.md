@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Nuha Awadah</h1>
-<h3 align="center">A Data Analyst passionate about turning data into actionable business insights from Malaysia</h3>
+<h1 align="center">Hi, I'm Nuha Awadah</h1>
+<h3 align="center">A graduate with a Bachelor in Computer Science from Malaysia and currently a Certificate 3 Cybersecurity student under South Metropolitan TAFE in Perth WA Australia! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuha-awadah&label=Profile%20views&color=0e75b6&style=flat" alt="nuha-awadah" /> </p>
 
-- 🔭 I’m currently working on **Data Analytics Portfolio Projects**
+- I’m currently working on **getting my certificate!**
 
-- 🌱 I’m currently learning **SQL optimisation, Data Modelling, and Advanced Power BI**
+- I’m currently learning **GRC compliance and gaining an understanding on current AI driven cyberattacks**
 
-- 👯 I’m looking to collaborate on **Data Analytics & Visualisation Projects**
+- I’m looking to **have a break**
 
-- 🤝 I’m looking for help with **Advanced SQL & Data Engineering Concepts**
+- I’m looking for help with **Cybersersecurity Concepts**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nuha-awadah/data-analytics-portfolio](https://github.com/nuha-awadah/data-analytics-portfolio)
+- All of my projects are available at [https://github.com/nuha-awadah/data-analytics-portfolio](https://github.com/nuha-awadah/data-analytics-portfolio)
 
-- 📫 How to reach me **nuhaawadah24@gmail.com**
+- How to reach me **nuhaawadah24@gmail.com**
 
-- ⚡ Fun fact **I love badminton frfrfrfr**
+- Fun fact **I love badminton **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
